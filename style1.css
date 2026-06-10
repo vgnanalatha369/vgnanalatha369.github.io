@@ -1,0 +1,25 @@
+body{
+    background-color:blue;
+}
+img{
+    animation:picture 10s ease-in-out 2s infinite;
+}
+@keyframes picture {
+    0%{
+        transform:rotate(0deg) translate(0cm,0cm);
+        border-style:dotted;
+        border-width: 2cm;
+    }
+    25%{
+        transform:rotate(90deg) translate(10cm,0cm);
+    }
+    50%{
+        transform:rotate(180deg) translate(10cm,10cm);
+    }
+    75%{
+        transform:rotate(270deg) translate(0cm,10cm);
+    }
+    100%{
+        transform:rotate(360deg) translate(0cm,0cm);
+    }
+}
