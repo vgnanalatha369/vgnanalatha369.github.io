@@ -1,0 +1,9 @@
+h1{
+    height:20cm;
+    background: linear-gradient(32deg,brown,darkblue,yellow,green);
+}
+body{
+    display:flex;
+    flex-direction:row-reverse;
+    justify-content:space-evenly;
+}
