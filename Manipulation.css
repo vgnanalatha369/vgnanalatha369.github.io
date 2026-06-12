@@ -1,0 +1,15 @@
+img{
+    width: 450px;
+    height: 400px;
+}
+body{
+    background-color: lightblue;
+}
+#content{
+    display:block;
+    gap: 1cm;
+}
+h1{
+    text-align: center;
+    color:darkblue;
+}

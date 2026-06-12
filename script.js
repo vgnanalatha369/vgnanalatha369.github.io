@@ -30,6 +30,6 @@ let two_hundred_notes=amount/200;
 let hundred_notes=amount/100;
 console.log("Number of 500 notes: " +five_hundred_notes);
 console.log("Number of 200 notes: " +two_hundred_notes);
-console.log("Number of 100 notes: " +hundred_notes);*/
+console.log("Number of 100 notes: " +hundred_notes);
 
 
