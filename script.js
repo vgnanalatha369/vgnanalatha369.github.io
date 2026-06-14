@@ -32,4 +32,8 @@ console.log("Number of 500 notes: " +five_hundred_notes);
 console.log("Number of 200 notes: " +two_hundred_notes);
 console.log("Number of 100 notes: " +hundred_notes);
 
+function showMessage() {
+    alert('Thank you for visiting my portfolio. I am excited to connect!');
+}
+
 
